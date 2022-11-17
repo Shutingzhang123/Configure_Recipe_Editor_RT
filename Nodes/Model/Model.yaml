@@ -1,0 +1,21 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Motor
+  Id: g=b8d6d9386dcb24596d898c5a4e7c5356
+  Type: BaseObjectType
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleration
+    Id: g=2768c7c1f37d6a21e4a91dbcdeba74aa
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Torque
+    Id: g=8d9f1b973d4b9abeabe5076d82acd60d
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
